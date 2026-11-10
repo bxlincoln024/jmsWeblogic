@@ -1,0 +1,1 @@
+java -cp ojdbc8.jar;wlclient.jar;wljmsclient.jar;commons-cli-1.4.jar;.;  check4StalledTrn
